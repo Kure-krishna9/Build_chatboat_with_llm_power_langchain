@@ -206,7 +206,10 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 <<<<<<< HEAD
+<<<<<<< HEAD
 ".env" 
 ".env" 
+=======
+>>>>>>> 2490a31b0a3e72d1cbe6ce95fc0d28d4702031f7
 =======
 >>>>>>> 2490a31b0a3e72d1cbe6ce95fc0d28d4702031f7
